@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<natureOfTheLoad>
+    <Load>
+        <kWhPerHour>19.974999999999998</kWhPerHour>
+        <kWhPerHour>19.974999999999998</kWhPerHour>
+        <kWhPerHour>19.974999999999998</kWhPerHour>
+        <kWhPerHour>19.974999999999998</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>2.35</kWhPerHour>
+        <kWhPerHour>2.35</kWhPerHour>
+        <kWhPerHour>2.35</kWhPerHour>
+        <kWhPerHour>22.325</kWhPerHour>
+        <kWhPerHour>22.325</kWhPerHour>
+        <kWhPerHour>22.325</kWhPerHour>
+        <kWhPerHour>22.325</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+    </Load>
+    <DistributersName>ChemiesDistributer</DistributersName>
+</natureOfTheLoad>

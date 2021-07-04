@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <path>d://work//myproject</path>
+    <quantity>3.0</quantity>
+    <addresses>
+        <item address="127.0.0.1" port="7070"/>
+        <item address="127.0.0.1" port="8070"/>
+        <item address="127.0.0.1" port="8080"/>
+    </addresses>
+</config>

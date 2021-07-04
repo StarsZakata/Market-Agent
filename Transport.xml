@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<natureOfTheLoad>
+    <Load>
+        <kWhPerHour>11.75</kWhPerHour>
+        <kWhPerHour>11.75</kWhPerHour>
+        <kWhPerHour>4.7</kWhPerHour>
+        <kWhPerHour>4.7</kWhPerHour>
+        <kWhPerHour>9.4</kWhPerHour>
+        <kWhPerHour>9.4</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>2.35</kWhPerHour>
+        <kWhPerHour>2.35</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>18.8</kWhPerHour>
+        <kWhPerHour>2.35</kWhPerHour>
+        <kWhPerHour>2.35</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>21.150000000000002</kWhPerHour>
+        <kWhPerHour>16.45</kWhPerHour>
+        <kWhPerHour>16.45</kWhPerHour>
+        <kWhPerHour>16.45</kWhPerHour>
+    </Load>
+    <DistributersName>TransportDistributer</DistributersName>
+</natureOfTheLoad>

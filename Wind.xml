@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<WindConfig>
+    <Production>
+        <product>21.0</product>
+        <product>13.0</product>
+        <product>0.0</product>
+        <product>5.0</product>
+        <product>15.0</product>
+        <product>0.0</product>
+        <product>0.0</product>
+        <product>17.0</product>
+        <product>1.0</product>
+        <product>11.0</product>
+        <product>4.0</product>
+        <product>13.0</product>
+        <product>7.0</product>
+        <product>0.0</product>
+        <product>1.0</product>
+        <product>19.0</product>
+        <product>5.0</product>
+        <product>21.0</product>
+        <product>16.0</product>
+        <product>18.0</product>
+        <product>16.0</product>
+        <product>21.0</product>
+        <product>17.0</product>
+        <product>5.0</product>
+    </Production>
+</WindConfig>
